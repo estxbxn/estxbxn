@@ -9,15 +9,9 @@
 
 - 🔭 I’m currently working on [Hyping](https://hyping.fr)
 
-- 🌱 I’m currently learning **ReactJS, TypeScript**
+- 👨‍💻 All of my projects are available on [my website](https://espiec.com)
 
-- 🌅 My others projects **Lysaria, Elarys**
-
-- 👨‍💻 All of my projects are available at [https://espiec.com](https://espiec.com)
-
-- 📝 I regularly write articles on [https://espiec.com/blog](https://espiec.com/blog)
-
-- 📄 Know about my experiences [https://espiec.com/resume](https://espiec.com/resume)
+- 📄 Know about my experiences on [my website](https://espiec.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
