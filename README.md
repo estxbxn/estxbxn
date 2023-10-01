@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/estxbxn___" target="blank"><img src="https://img.shields.io/twitter/follow/estxbxn___?logo=twitter&style=for-the-badge" alt="estxbxn___" /></a> </p>
 
-- 🔭 I’m currently working on [Hyping](https://hyping.fr)
+- 🔭 I’m currently working on [my website](https://espiec.com)
 
-- 👨‍💻 All of my projects are available on [my website](https://espiec.com)
+- 👨‍💻 All of my projects are available on [my website](https://espiec.com/projects)
 
-- 📄 Know about my experiences on [my website](https://espiec.com)
+- 📄 Know about my experiences on [my website](https://espiec.com/about)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
