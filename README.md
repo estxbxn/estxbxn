@@ -3,12 +3,6 @@
 <h1 align="center">Hi 👋, I'm Estéban</h1>
 <h3 align="center">A passionate FullStack Developer from France</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=estxbxn&label=Profile%20views&color=0e75b6&style=flat" alt="estxbxn" /> </p>
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=estxbxn&show_icons=true&theme=tokyonight" alt="estxbxn" /> </p>
-
-<p align="left"> <a href="https://twitter.com/estxbxn__" target="blank"><img src="https://img.shields.io/twitter/follow/estxbxn__?logo=twitter&style=for-the-badge" alt="estxbxn___" /></a> </p>
-
 - 🔭 I’m currently working on [my website](https://espiec.com)
 
 - 👨‍💻 All of my projects are available on [my website](https://espiec.com/projects)
