@@ -3,11 +3,11 @@
 <h1 align="center">Hi 👋, I'm Estéban</h1>
 <h3 align="center">A passionate FullStack Developer from France</h3>
 
-- 🔭 I’m currently working on [my website](https://espiec.com)
+- 🔭 I’m currently working on [my website](https://whimsy-studio.com)
 
-- 👨‍💻 All of my projects are available on [my website](https://espiec.com/projects)
+- 👨‍💻 All of my projects are available on [my website](https://whimsy-studio.com/projects)
 
-- 📄 Know about my experiences on [my website](https://espiec.com/about)
+- 📄 Know about my experiences on [my website](https://whimsy-studio.com/about)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
